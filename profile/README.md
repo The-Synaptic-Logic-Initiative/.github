@@ -1,4 +1,4 @@
-# The Synaptic Logic Initiative
+# The Synaptic Logic Initiative [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 **An Independent Research & Computational Neuroscience Portfolio**
 
 Welcome to **The Synaptic Logic Initiative**. This repository serves as a centralized hub for 19 independent computational models, literature syntheses, and bio-inspired AI architectures. The initiative bridges the gap between biological neural mechanisms and artificial neural network constraints, exploring how complex cognitive phenomena emerge from network topology.
