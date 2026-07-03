@@ -52,14 +52,7 @@ Our work is systematically categorized into three core areas of inquiry. Explore
 
 While the entire catalog of projects is open-source, the following papers have been compiled into formal academic structures:
 
-* 📄 **[Paper Title 1 / e.g., Astrocyte-Inspired Modulation Layer]** * *Status:* Preprint Available / Submitted to [Journal Name]
-  * *Abstract:* [Insert a 2-3 sentence abstract summarizing the project outcome]
-  * *Link:* `[Insert ResearchGate or Curieux Link Here]`
-
-* 📄 **[Paper Title 2 / e.g., Cognitive Bias Emergence in Transformers]**
-  * *Status:* Independent Review Paper
-  * *Abstract:* [Insert a 2-3 sentence abstract summarizing the project outcome]
-  * *Link:* `[Insert Link Here]`
+(comming soon)
 
 ---
 
@@ -69,4 +62,4 @@ While the entire catalog of projects is open-source, the following papers have b
 * **Methodologies:** Computational Neuroscience, Hebbian Plasticity, Reinforcement Learning, Information Theory
 
 ---
-*For inquiries regarding collaboration, academic verification, or university admissions data review, please contact [Your Email/Contact Information].*
+*For inquiries regarding collaboration, academic verification, or university admissions data review, please contact virajkadwe01@gmail.com
